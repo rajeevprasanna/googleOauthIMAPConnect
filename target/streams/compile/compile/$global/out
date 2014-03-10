@@ -1,0 +1,417 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/Junk.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2SaslClient.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/junk2.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2SaslClientFactory.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/Junk.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2SaslClient.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/junk2.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2SaslClientFactory.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/Junk.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2SaslClient.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/junk2.java, /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2SaslClientFactory.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 8 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 8 Java sources to /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call javac directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javac.Main not found with appropriate method signature; forking javac instead[0m
+[0m[[0mdebug[0m] [0mForking javac: javac @/var/folders/0k/j62t9jyj3md3k3y5rkzd1ry40000gn/T/sbt_33364982/argfile[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:23: error: package javax.mail does not exist[0m
+[0m[[31merror[0m] [0mimport javax.mail.Session;[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:24: error: package javax.mail does not exist[0m
+[0m[[31merror[0m] [0mimport javax.mail.URLName;[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:26: error: package com.sun.mail.imap does not exist[0m
+[0m[[31merror[0m] [0mimport com.sun.mail.imap.IMAPSSLStore;[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:27: error: package com.sun.mail.imap does not exist[0m
+[0m[[31merror[0m] [0mimport com.sun.mail.imap.IMAPStore;[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:28: error: package com.sun.mail.smtp does not exist[0m
+[0m[[31merror[0m] [0mimport com.sun.mail.smtp.SMTPTransport;[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:74: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m  public static IMAPStore connectToImap(String host,[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m  symbol:   class IMAPStore[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:108: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m  public static SMTPTransport connectToSmtp(String host,[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m  symbol:   class SMTPTransport[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:11: error: package javax.servlet.http does not exist[0m
+[0m[[31merror[0m] [0mimport javax.servlet.http.HttpServletRequest;[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:12: error: package javax.servlet.http does not exist[0m
+[0m[[31merror[0m] [0mimport javax.servlet.http.HttpServletResponse;[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:14: error: package org.scribe.builder does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.builder.ServiceBuilder;[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:15: error: package org.scribe.builder.api does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.builder.api.YahooApi;[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:16: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.OAuthRequest;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:17: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Response;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:18: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Token;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:19: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Verb;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:20: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Verifier;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:21: error: package org.scribe.oauth does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.oauth.OAuthService;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:22: error: package org.springframework.stereotype does not exist[0m
+[0m[[31merror[0m] [0mimport org.springframework.stereotype.Controller;[0m
+[0m[[31merror[0m] [0m                                     ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:23: error: package org.springframework.ui does not exist[0m
+[0m[[31merror[0m] [0mimport org.springframework.ui.ModelMap;[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:24: error: package org.springframework.web.bind.annotation does not exist[0m
+[0m[[31merror[0m] [0mimport org.springframework.web.bind.annotation.PathVariable;[0m
+[0m[[31merror[0m] [0m                                              ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:25: error: package org.springframework.web.bind.annotation does not exist[0m
+[0m[[31merror[0m] [0mimport org.springframework.web.bind.annotation.RequestMapping;[0m
+[0m[[31merror[0m] [0m                                              ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:26: error: package org.springframework.web.bind.annotation does not exist[0m
+[0m[[31merror[0m] [0mimport org.springframework.web.bind.annotation.RequestMethod;[0m
+[0m[[31merror[0m] [0m                                              ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:28: error: package com.google.api.client.auth.oauth2 does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.auth.oauth2.AuthorizationCodeResponseUrl;[0m
+[0m[[31merror[0m] [0m                                        ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:29: error: package com.google.api.client.auth.oauth2 does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.auth.oauth2.TokenResponseException;[0m
+[0m[[31merror[0m] [0m                                        ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:30: error: package com.google.api.client.googleapis.auth.oauth2 does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow;[0m
+[0m[[31merror[0m] [0m                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:31: error: package com.google.api.client.googleapis.auth.oauth2 does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl;[0m
+[0m[[31merror[0m] [0m                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:32: error: package com.google.api.client.googleapis.auth.oauth2 does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeTokenRequest;[0m
+[0m[[31merror[0m] [0m                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:33: error: package com.google.api.client.googleapis.auth.oauth2 does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.googleapis.auth.oauth2.GoogleTokenResponse;[0m
+[0m[[31merror[0m] [0m                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:34: error: package com.google.api.client.http does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.http.HttpTransport;[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:35: error: package com.google.api.client.http.javanet does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.http.javanet.NetHttpTransport;[0m
+[0m[[31merror[0m] [0m                                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:36: error: package com.google.api.client.json does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.json.JsonFactory;[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:37: error: package com.google.api.client.json.jackson does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.json.jackson.JacksonFactory;[0m
+[0m[[31merror[0m] [0m                                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:39: error: package org.scribe.builder.api does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.builder.api.GoogleApi20;[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:43: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m@Controller[0m
+[0m[[31merror[0m] [0m ^[0m
+[0m[[31merror[0m] [0m  symbol: class Controller[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:44: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m@RequestMapping("/")[0m
+[0m[[31merror[0m] [0m ^[0m
+[0m[[31merror[0m] [0m  symbol: class RequestMapping[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:58: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public static final JsonFactory JSON_FACTORY = new JacksonFactory();[0m
+[0m[[31merror[0m] [0m	                    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class JsonFactory[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:59: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public static final HttpTransport HTTP_TRANSPORT = new NetHttpTransport();[0m
+[0m[[31merror[0m] [0m	                    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpTransport[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:62: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	private final GoogleAuthorizationCodeFlow flow;[0m
+[0m[[31merror[0m] [0m	              ^[0m
+[0m[[31merror[0m] [0m  symbol:   class GoogleAuthorizationCodeFlow[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:86: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void welcomeOutlook(HttpServletRequest request, HttpServletResponse response) throws IOException {[0m
+[0m[[31merror[0m] [0m	                           ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletRequest[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:86: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void welcomeOutlook(HttpServletRequest request, HttpServletResponse response) throws IOException {[0m
+[0m[[31merror[0m] [0m	                                                       ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletResponse[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:112: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void connectToYahoo(HttpServletRequest request, HttpServletResponse response) throws IOException{[0m
+[0m[[31merror[0m] [0m	                           ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletRequest[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:112: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void connectToYahoo(HttpServletRequest request, HttpServletResponse response) throws IOException{[0m
+[0m[[31merror[0m] [0m	                                                       ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletResponse[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:121: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String finalPage(HttpServletRequest request, HttpServletResponse response){[0m
+[0m[[31merror[0m] [0m	                        ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletRequest[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:121: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String finalPage(HttpServletRequest request, HttpServletResponse response){[0m
+[0m[[31merror[0m] [0m	                                                    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletResponse[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:127: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	private static Token YAHOO_ACCESS_TOKEN = null;[0m
+[0m[[31merror[0m] [0m	               ^[0m
+[0m[[31merror[0m] [0m  symbol:   class Token[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:129: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String yahooReceiver(HttpServletRequest request, HttpServletResponse response) throws UnsupportedEncodingException{[0m
+[0m[[31merror[0m] [0m	                            ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletRequest[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:129: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String yahooReceiver(HttpServletRequest request, HttpServletResponse response) throws UnsupportedEncodingException{[0m
+[0m[[31merror[0m] [0m	                                                        ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletResponse[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:178: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void refreshToken(Token accessToken, Map<String, String> tokenMap) {[0m
+[0m[[31merror[0m] [0m	                         ^[0m
+[0m[[31merror[0m] [0m  symbol:   class Token[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:213: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	private static Token YAHOO_REQUEST_TOKEN= null;[0m
+[0m[[31merror[0m] [0m	               ^[0m
+[0m[[31merror[0m] [0m  symbol:   class Token[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:216: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void welcomeYahoo(HttpServletRequest request, HttpServletResponse response) throws IOException {[0m
+[0m[[31merror[0m] [0m	                         ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletRequest[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:216: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void welcomeYahoo(HttpServletRequest request, HttpServletResponse response) throws IOException {[0m
+[0m[[31merror[0m] [0m	                                                     ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletResponse[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:241: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void welcome(HttpServletRequest request, HttpServletResponse response) throws IOException {[0m
+[0m[[31merror[0m] [0m	                    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletRequest[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:241: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public void welcome(HttpServletRequest request, HttpServletResponse response) throws IOException {[0m
+[0m[[31merror[0m] [0m	                                                ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletResponse[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:253: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String gauthResponse(HttpServletRequest request, HttpServletResponse response) throws Exception {[0m
+[0m[[31merror[0m] [0m	                            ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletRequest[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:253: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String gauthResponse(HttpServletRequest request, HttpServletResponse response) throws Exception {[0m
+[0m[[31merror[0m] [0m	                                                        ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpServletResponse[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:312: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String welcomeName(@PathVariable String name, ModelMap model) {[0m
+[0m[[31merror[0m] [0m	                                                     ^[0m
+[0m[[31merror[0m] [0m  symbol:   class ModelMap[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java:7: error: package com.google.api.client.googleapis.auth.oauth2 does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.googleapis.auth.oauth2.GoogleCredential;[0m
+[0m[[31merror[0m] [0m                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java:8: error: package com.google.api.client.http does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.http.HttpTransport;[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java:9: error: package com.google.api.client.http.javanet does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.http.javanet.NetHttpTransport;[0m
+[0m[[31merror[0m] [0m                                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java:10: error: package com.google.api.client.json does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.json.JsonFactory;[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java:11: error: package com.google.api.client.json.jackson does not exist[0m
+[0m[[31merror[0m] [0mimport com.google.api.client.json.jackson.JacksonFactory;[0m
+[0m[[31merror[0m] [0m                                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java:15: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	private static final HttpTransport HTTP_TRANSPORT = new NetHttpTransport();[0m
+[0m[[31merror[0m] [0m	                     ^[0m
+[0m[[31merror[0m] [0m  symbol:   class HttpTransport[0m
+[0m[[31merror[0m] [0m  location: class IMAPMailConnector[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/IMAPMailConnector.java:16: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	private static final JsonFactory JSON_FACTORY = new JacksonFactory();[0m
+[0m[[31merror[0m] [0m	                     ^[0m
+[0m[[31merror[0m] [0m  symbol:   class JsonFactory[0m
+[0m[[31merror[0m] [0m  location: class IMAPMailConnector[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/Junk.java:10: error: package org.apache.commons.httpclient does not exist[0m
+[0m[[31merror[0m] [0mimport org.apache.commons.httpclient.HttpClient;[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/Junk.java:11: error: package org.apache.commons.httpclient does not exist[0m
+[0m[[31merror[0m] [0mimport org.apache.commons.httpclient.HttpStatus;[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/Junk.java:12: error: package org.apache.commons.httpclient.methods does not exist[0m
+[0m[[31merror[0m] [0mimport org.apache.commons.httpclient.methods.PostMethod;[0m
+[0m[[31merror[0m] [0m                                            ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:5: error: package org.scribe.builder does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.builder.ServiceBuilder;[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:6: error: package org.scribe.builder.api does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.builder.api.YahooApi;[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:7: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.OAuthRequest;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:8: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Response;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:9: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Token;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:10: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Verb;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:11: error: package org.scribe.model does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.model.Verifier;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/YahooExample.java:12: error: package org.scribe.oauth does not exist[0m
+[0m[[31merror[0m] [0mimport org.scribe.oauth.OAuthService;[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/junk2.java:4: error: package org.apache.commons.httpclient does not exist[0m
+[0m[[31merror[0m] [0mimport org.apache.commons.httpclient.HttpClient;[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/junk2.java:5: error: package org.apache.commons.httpclient does not exist[0m
+[0m[[31merror[0m] [0mimport org.apache.commons.httpclient.HttpException;[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/junk2.java:6: error: package org.apache.commons.httpclient does not exist[0m
+[0m[[31merror[0m] [0mimport org.apache.commons.httpclient.HttpStatus;[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/junk2.java:7: error: package org.apache.commons.httpclient.methods does not exist[0m
+[0m[[31merror[0m] [0mimport org.apache.commons.httpclient.methods.GetMethod;[0m
+[0m[[31merror[0m] [0m                                            ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:85: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value = "/welcomeOutlook", method = RequestMethod.GET)[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:111: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value="/connectYahoo")[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:120: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value="/finalPage")[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:128: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value="/yahooReceiver")[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:215: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value = "/welcomeYahoo", method = RequestMethod.GET)[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:240: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value = "/welcome", method = RequestMethod.GET)[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:252: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value = "/gauthResponse", method = RequestMethod.GET)[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:312: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	public String welcomeName(@PathVariable String name, ModelMap model) {[0m
+[0m[[31merror[0m] [0m	                           ^[0m
+[0m[[31merror[0m] [0m  symbol:   class PathVariable[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/BaseController.java:311: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m	@RequestMapping(value = "/welcome/{name}", method = RequestMethod.GET)[0m
+[0m[[31merror[0m] [0m	 ^[0m
+[0m[[31merror[0m] [0m  symbol:   class RequestMapping[0m
+[0m[[31merror[0m] [0m  location: class BaseController[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:83: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    Session session = Session.getInstance(props);[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class Session[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:83: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    Session session = Session.getInstance(props);[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0m  symbol:   variable Session[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:86: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    final URLName unusedUrlName = null;[0m
+[0m[[31merror[0m] [0m          ^[0m
+[0m[[31merror[0m] [0m  symbol:   class URLName[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:87: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    IMAPSSLStore store = new IMAPSSLStore(session, unusedUrlName);[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class IMAPSSLStore[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:87: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    IMAPSSLStore store = new IMAPSSLStore(session, unusedUrlName);[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m  symbol:   class IMAPSSLStore[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:119: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    Session session = Session.getInstance(props);[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class Session[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:119: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    Session session = Session.getInstance(props);[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0m  symbol:   variable Session[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:122: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    final URLName unusedUrlName = null;[0m
+[0m[[31merror[0m] [0m          ^[0m
+[0m[[31merror[0m] [0m  symbol:   class URLName[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:123: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    SMTPTransport transport = new SMTPTransport(session, unusedUrlName);[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class SMTPTransport[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:123: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    SMTPTransport transport = new SMTPTransport(session, unusedUrlName);[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0m  symbol:   class SMTPTransport[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:145: error: cannot find symbol[0m
+[0m[[31merror[0m] [0m    IMAPStore imapStore = connectToImap("imap.gmail.com",[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m  symbol:   class IMAPStore[0m
+[0m[[31merror[0m] [0m  location: class OAuth2Authenticator[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:151: error: package javax.mail does not exist[0m
+[0m[[31merror[0m] [0m    javax.mail.Folder[] folders = imapStore.getDefaultFolder().list("*");[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0m/Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/googleMailOauth2Tools/OAuth2Authenticator.java:152: error: package javax.mail does not exist[0m
+[0m[[31merror[0m] [0m    for (javax.mail.Folder folder : folders) {[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mNote: /Users/rajeevprasanna/Desktop/scalatraTest/MailDownloader_SpringMaven/src/main/java/com/mailDownloader/controller/Junk.java uses unchecked or unsafe operations.[0m
+[0m[[31merror[0m] [0mNote: Recompile with -Xlint:unchecked for details.[0m
+[0m[[31merror[0m] [0m100 errors[0m
+[0m[[0mdebug[0m] [0mjavac returned exit code: 1[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) javac returned nonzero exit code[0m
